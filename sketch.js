@@ -4,7 +4,7 @@ const colour = 0;
 function setup() {
   createCanvas(displayWidth, displayHeight);
   background(249, 235, 245); // pink
-  textFont('Courier New', 14);
+  textFont('Courier New', 12);
   fill(0);
   textAlign(LEFT);
   text('Click around to see different shapes!', 20, 50);
